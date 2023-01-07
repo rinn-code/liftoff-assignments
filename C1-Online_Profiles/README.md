@@ -3,16 +3,12 @@ For this assignment you will need to upload your resume and provide links to you
 
 ## Assignment Description
 [Online Profiles Assignment](https://education.launchcode.org/liftoff/modules/assignments/online-profiles)
-
-## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+https://github.com/rinn-code 
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+https://www.linkedin.com/in/rinn-mattox/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
+[Rinn - LC Resume - Google Docs.pdf](https://github.com/rinn-code/liftoff-assignments/files/10367248/Rinn.-.LC.Resume.-.Google.Docs.pdf)
